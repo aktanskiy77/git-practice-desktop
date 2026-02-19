@@ -1,0 +1,7 @@
+Name: Aktan
+
+Course: CSA-23C
+
+Favorite programming language: Python 
+
+сделал git checkout -b feature-intro
