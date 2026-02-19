@@ -8,4 +8,4 @@ Favorite programming language: Python
 
 Student Aktan was here
 
-www
+Name: Aktan (From GitHub Site)
