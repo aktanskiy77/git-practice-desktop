@@ -1,5 +1,6 @@
-Name: Aktan
+Name: Aktan - GitHub version
 
+ 
 Course: CSA-23C
 
 Favorite programming language: Python 
